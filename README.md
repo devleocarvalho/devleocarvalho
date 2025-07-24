@@ -1,4 +1,4 @@
-<div style="background-image: url('3.jpeg'); width: 300px; height: 200px;"></div>
+<img src="3.jpeg" style="width: 100">
 
 
 
