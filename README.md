@@ -43,16 +43,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=leocarvalho-dev&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocarvalho-dev&show_icons=true&theme=radical&layout=compact" />
-</div>
-
 ---
 
 ## 📫 Contact Me
