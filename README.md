@@ -1,4 +1,5 @@
-<div style="background-image: url('3.jpeg'); "width: 100px" ></div>
+<div style="background-image: url('3.jpeg'); width: 300px; height: 200px;"></div>
+
 
 
 <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1>
