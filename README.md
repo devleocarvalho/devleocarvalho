@@ -1,4 +1,5 @@
-<img src="3.jpeg" style="width:100">
+<div style="background-image: url('3.jpeg'); "width: 100px" ></div>
+
 
 <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1>
 
