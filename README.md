@@ -1,6 +1,4 @@
-<img src="3.jpeg">
-
-
+<header style="background-color:#f2f2f2; padding:10px;"><img src="3.jpeg" alt="Logo" style="height:50;"></header>
 
 <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1>
 
