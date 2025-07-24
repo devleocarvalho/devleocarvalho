@@ -1,4 +1,4 @@
-<img src="c.gif" style="width=100">
+<img src="c.gif" style="display:block; margin:0 auto; width:50">
 
 <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1>
 
