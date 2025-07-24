@@ -1,4 +1,4 @@
-<img src="3.jpeg" style="width: auto;" alt="Descrição da imagem">
+<img src="3.jpeg" style="width:100">
 
 <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1>
 
