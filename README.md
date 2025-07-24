@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D8ABC&height=120&section=header"/>
+
 
 <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1>
 
