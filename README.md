@@ -1,4 +1,9 @@
-<img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;"><img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;"><img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;"><img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;"><img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;"><img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;">
+<img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;">
+<img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;">
+<img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;">
+<img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;">
+<img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;">
+<img src="c.gif" style="display:block; margin:0 auto; width:10px; height:auto;">
 
 
 <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1>
