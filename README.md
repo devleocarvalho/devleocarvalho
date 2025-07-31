@@ -1,7 +1,4 @@
-<img src="c.gif" style="display:flex; justify-content:center; gap:10px;width:100px; height:auto;">
-<img src="c.gif" style="display:flex; justify-content:center; gap:10px;width:100px; height:auto;">
-
-
+<img src="c.gif" style="display:flex; justify-content:center;width:100px; height:auto;">
 
 <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1>
 
