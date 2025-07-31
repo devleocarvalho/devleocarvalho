@@ -1,5 +1,5 @@
-<img src="c.gif" style="display:flex; margin:0 auto; width:100px; height:auto;">
-<img src="c.gif" style="display:flex; margin:0 auto; width:100px; height:auto;">
+<img src="c.gif" style="width:100px; ">
+<img src="c.gif" style=" width:100px; ">
 
 
 
