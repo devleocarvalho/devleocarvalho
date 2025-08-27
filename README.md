@@ -47,9 +47,17 @@
 ## 📫 Contact Me
 
 <div align="center">
-  <a href="mailto:dev.leocarvalho@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+   <a href="mailto:dev.leocarvalho@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://portifolio-gules-tau.vercel.app/" target="blank"> Portifolio</a>
-  <a href="[https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/devleocarvalho/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=lin
+
+  <a href="https://portifolio-gules-tau.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/devleocarvalho/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+</div>
