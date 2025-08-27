@@ -1,5 +1,5 @@
 <img src="c.gif" style="display:flex; justify-content:center;width:100px; height:auto;">
-<a href="https://portifolio-gules-tau.vercel.app/" target="_blank">  <h1 align="center">Hi there 👋, I'm Leo Carvalho</h1></a>
+<h1 align="center"> <a href="https://portifolio-gules-tau.vercel.app/" target="blank">  Hi there 👋, I'm Leo Carvalho</h1></a>
 
 <p align="center">
   <em>
