@@ -1,4 +1,4 @@
-<img src="c.gif" style="display:center; justify-content:center;width:100px; height:auto;">
+<img src="c.gif" style="display: block; margin: 0 auto; width: 100px; height: auto;">
 <h1 align="center"> <a href="https://portifolio-gules-tau.vercel.app/" target="blank">  Hi there 👋, I'm Leo Carvalho</h1></a>
 
 <p align="center">
