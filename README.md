@@ -51,8 +51,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Cibersegurança](https://img.shields.io/badge/Cibersegurança-0078D4?style=for-the-badge&logo=lock&logoColor=white)
 ![Infraestrutura e Redes](https://img.shields.io/badge/Infraestrutura_e_Redes-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Infraestrutura e Redes](https://img.shields.io/badge/Infraestrutura_e_Redes-0078D4?style=for-the-badge&logo=server&logoColor=white)
-![Infraestrutura e Redes](https://img.shields.io/badge/Infraestrutura_e_Redes-0078D4?style=for-the-badge&logo=network&logoColor=white)
+
 ---
 
 ## 📫 Contact Me
