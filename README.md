@@ -49,9 +49,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Cibersegurança](https://img.shields.io/badge/Cibersegurança-000000?style=for-the-badge&logo=lock&logoColor=F2C811)
-![Infraestrutura e Redes](https://img.shields.io/badge/Infraestrutura_e_Redes-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
-
+![Cibersegurança e Redes](https://img.shields.io/badge/Cibersegurança_e_Redes-000000?style=for-the-badge&logo=lock&logoColor=F2C811)
+![Cibersegurança e Redes](https://img.shields.io/badge/Cibersegurança_e_Redes-000000?style=for-the-badge&logo=shield&logoColor=F2C811)
 ---
 
 ## 📫 Contact Me
