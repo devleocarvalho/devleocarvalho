@@ -45,12 +45,12 @@
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-#8A2BE2?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-8A2BE2?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Cibersegurança e Redes](https://img.shields.io/badge/Cibersegurança_e_Redes-#A9A9A9?style=for-the-badge&logo=lock&logoColor=F2C811)
-![Redes](https://img.shields.io/badge/Cibersegurança_e_Redes-#FFC0CB?style=for-the-badge&logo=shield&logoColor=F2C811)
+![Cibersegurança e Redes](https://img.shields.io/badge/Cibersegurança_e_Redes-A9A9A9?style=for-the-badge&logo=lock&logoColor=F2C811)
+![Redes](https://img.shields.io/badge/Cibersegurança_e_Redes-FFC0CB?style=for-the-badge&logo=shield&logoColor=F2C811)
 
 ---
 
