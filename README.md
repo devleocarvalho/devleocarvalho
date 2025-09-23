@@ -30,6 +30,9 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 ### Databases:
 
@@ -42,8 +45,14 @@
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-0078D4?style=for-the-badge&logo=lock&logoColor=white)
+![Infraestrutura e Redes](https://img.shields.io/badge/Infraestrutura_e_Redes-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Infraestrutura e Redes](https://img.shields.io/badge/Infraestrutura_e_Redes-0078D4?style=for-the-badge&logo=server&logoColor=white)
+![Infraestrutura e Redes](https://img.shields.io/badge/Infraestrutura_e_Redes-0078D4?style=for-the-badge&logo=network&logoColor=white)
 ---
 
 ## 📫 Contact Me
