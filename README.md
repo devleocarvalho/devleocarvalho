@@ -71,21 +71,6 @@
 - **Unijorge** (Análise e Desenvolvimento de Sistemas)
 
 ---
-
-## ✨ About This Portfolio Project
-
-This repository contains the source code for my personal portfolio website, built with a focus on high performance, modern UI/UX, and accessibility. 
-
-**Key Features:**
-- 🌍 **Multi-language Support:** Dynamic switching between Portuguese, English, and Spanish.
-- 🎨 **Modern Animations:** Powered by GSAP, Vanilla-tilt and Particles.js for an immersive experience.
-- 🖱️ **Custom Cursors:** Interactive and selectable cursor trails.
-- 📬 **Contact Integration:** Real-time form submission via Resend API.
-- 🎵 **Spotify Widget:** Integrated playlist to share my coding vibes.
-- 💼 **Dynamic Project Showcase:** Filtering system for over 25 projects (E-commerce, Systems, Institutional).
-
----
-
 ## 📫 Contact Me
 
 <div align="center">
