@@ -1,13 +1,8 @@
+TIRE OS EMOJIS. 
 <div align="center">
-  <img src="GIF.gif" width="50%" alt="Header Banner">
+  <a href="https://portifolio-two-red-14.vercel.app/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=180&section=header&text=Leo%20Carvalho&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Analyst%20%E2%80%A2%20DevSecOps&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+</a>
 </div>
-
-<h1 align="center">
-  <a href="https://portifolio-two-red-14.vercel.app/" target="_blank">
-    Hi there 👋, I'm Leo Carvalho
-  </a>
-</h1>
-
 <div align="center">
   <a href="https://portifolio-two-red-14.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Systems+Analyst;Cybersecurity+%26+DevSecOps;Security+by+Design+Advocate" alt="Typing SVG" />
@@ -29,10 +24,11 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm currently studying **Systems Analysis and Development** at **Unijorge**, and taking online courses via **DevMedia**, **Coursera**, and other platforms.
-- 🔄 **Career shifter:** I’m transitioning into the tech world with strong soft skills, a growth mindset, and a passion for cybersecurity.
-- 📚 **Always learning:** Modern architectures using React, Next.js, Node.js, Cloud ecosystems, and DevSecOps practices.
-- 💼 I value collaboration, communication, and curiosity — these fuel my journey in tech.
+- 🎓 **Education:** Pursuing a degree in **Systems Analysis and Development** at **Unijorge**, reinforced with intensive technical tracks via **DevMedia** and **Coursera**.
+- 🛡️ **Security by Design:** Passionate about DevSecOps — shifting security left with automated audits (SAST/DAST), Zero Trust network architectures (TLS 1.3 / mTLS), and cryptographic validation.
+- 🚀 **Full Stack Architecture:** Engineering robust web and mobile applications leveraging **React, Next.js, Node.js, Python**, and Modern Cloud platforms.
+- 🔄 **Career Shifter:** Combining prior analytical background, active communication, and strong soft skills to build dependable, user-focused digital solutions.
+- 💼 **Core Values:** Collaboration, adaptability, and continuous curiosity drive every project I take on.
 
 ---
 
@@ -106,13 +102,19 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Education
 
-- ![Cisco](https://img.shields.io/badge/-Cisco%20CyberOps%20%26%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco CyberOps & Networking**
+#### 🛡️ Cybersecurity & Defense
+- ![Cisco](https://img.shields.io/badge/-Cisco%20CyberOps%20%26%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco CyberOps Associate & Networking**
 - ![Google](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) **Google Cybersecurity Professional**
-- ![Security](https://img.shields.io/badge/-Hackers%20do%20Bem-00C853?style=flat-square&logo=shield&logoColor=white) **Hackers do Bem**
-- ![Education](https://img.shields.io/badge/-Coursera%20%26%20DevMedia-0056D2?style=flat-square&logo=coursera&logoColor=white) **Coursera & DevMedia** (Full Stack & Systems Development)
-- ![University](https://img.shields.io/badge/-Unijorge-1E3A8A?style=flat-square&logo=grad-cap&logoColor=white) **Unijorge** (Análise e Desenvolvimento de Sistemas)
+- ![Hackers do Bem](https://img.shields.io/badge/-Hackers%20do%20Bem-00C853?style=flat-square&logo=shield&logoColor=white) **Hackers do Bem (RNP / Softex)**
+
+#### 💻 Software Engineering & Full Stack
+- ![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) **Full Stack Software Development Specializations**
+- ![DevMedia](https://img.shields.io/badge/-DevMedia-E34F26?style=flat-square&logo=codeigniter&logoColor=white) **Formação Full Stack Developer & Arquitetura**
+
+#### 🎓 Academic Degree
+- ![Unijorge](https://img.shields.io/badge/-Unijorge-1E3A8A?style=flat-square&logo=google-scholar&logoColor=white) **Análise e Desenvolvimento de Sistemas (ADS)**
 
 ---
 
