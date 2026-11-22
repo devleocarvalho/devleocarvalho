@@ -101,7 +101,7 @@
 - ![Hackers do Bem](https://img.shields.io/badge/-Hackers%20do%20Bem-00C853?style=flat-square&logo=shield&logoColor=white) 
 - ![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) 
 - ![DevMedia](https://img.shields.io/badge/-DevMedia-E34F26?style=flat-square&logo=codeigniter&logoColor=white)
-- 
+
 #### Academic Degree & International Coursework
 - ![Unijorge](https://img.shields.io/badge/-Unijorge-1E3A8A?style=flat-square&logo=google-scholar&logoColor=white) **Análise e Desenvolvimento de Sistemas (ADS)** — Unijorge
 - ![Universidad de Sevilla](https://img.shields.io/badge/-Universidad%20de%20Sevilla-8A1538?style=flat-square&logo=google-scholar&logoColor=white) **Seguridad Informática y Redes** — Universidad de Sevilla
