@@ -1,38 +1,45 @@
-TIRE OS EMOJIS. 
 <div align="center">
-  <a href="https://portifolio-two-red-14.vercel.app/" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=180&section=header&text=Leo%20Carvalho&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Analyst%20%E2%80%A2%20DevSecOps&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-</a>
+  <a href="https://portifolio-two-red-14.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=180&section=header&text=Leo%20Carvalho&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Analyst%20%E2%80%A2%20DevSecOps&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  </a>
 </div>
+
 <div align="center">
   <a href="https://portifolio-two-red-14.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Systems+Analyst;Cybersecurity+%26+DevSecOps;Security+by+Design+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=580&lines=const+engineer+=+new+DevSecOps('Leo+Carvalho')%3B;engineer.enforceZeroTrust({+tls:+1.3%2C+mTLS:+true+})%3B;pipeline.runQualityGate({+zeroVulnerabilities:+true+})%3B;while+(alive)+{+build()%3B+audit()%3B+deploy()%3B+}" alt="Terminal Typing Code" />
   </a>
 </div>
 
 <p align="center">
   <em>
-    A passionate and dedicated Full Stack Developer & Systems Analyst transitioning into tech — constantly learning, exploring, and growing. <br>
-    I’m curious by nature, driven by purpose, and I truly enjoy solving problems and building solutions through technology with a strong focus on <strong>Security by Design</strong>.
+    Full Stack Developer and Systems Analyst building resilient digital products guided by <strong>Security by Design</strong> and modern Cloud architectures.
   </em>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devleocarvalho&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 **Education:** Pursuing a degree in **Systems Analysis and Development** at **Unijorge**, reinforced with intensive technical tracks via **DevMedia** and **Coursera**.
-- 🛡️ **Security by Design:** Passionate about DevSecOps — shifting security left with automated audits (SAST/DAST), Zero Trust network architectures (TLS 1.3 / mTLS), and cryptographic validation.
-- 🚀 **Full Stack Architecture:** Engineering robust web and mobile applications leveraging **React, Next.js, Node.js, Python**, and Modern Cloud platforms.
-- 🔄 **Career Shifter:** Combining prior analytical background, active communication, and strong soft skills to build dependable, user-focused digital solutions.
-- 💼 **Core Values:** Collaboration, adaptability, and continuous curiosity drive every project I take on.
+```bash
+leo@devsecops:~$ cat profile.json
+{
+  "engineer": "Leonardo de Carvalho",
+  "specialization": ["Full Stack Development", "Systems Analysis", "DevSecOps"],
+  "principles": ["Security by Design", "Shift-Left", "Zero Trust Architecture"],
+  "core_stack": ["React", "Next.js", "TypeScript", "Node.js", "Python"],
+  "status": "Available for high-impact software & security engineering"
+}
+leo@devsecops:~$ ./run_security_audit.sh --production
+[PASS] SAST (Semgrep) | [PASS] SCA (Trivy) | [PASS] Quality Gate: 0 Vulnerabilities
+```
+
+- **Professional Focus:** Systems Analyst and Full Stack Developer specialized in engineering robust web and mobile applications with an uncompromising emphasis on **Security by Design** and DevSecOps best practices.
+- **Security & Systems Engineering:** Focused on shifting security left by integrating automated pipelines (SAST, SCA, DAST), Zero Trust network controls (strict TLS 1.3, mTLS), and cryptographic validation directly into the software lifecycle.
+- **Full Stack & Cloud Architecture:** Designing reliable, high-performance solutions utilizing modern JavaScript/TypeScript ecosystems (**React**, **Next.js**, **Node.js**), **Python**, and cloud databases (**Firebase**, **Supabase**, **Neon Postgres**).
+- **Career Transition & Strategic Value:** Combining an established professional background with analytical rigor, structured problem-solving, and clear cross-functional communication to deliver dependable business solutions.
+- **Academic Foundation:** Degree candidate in **Systems Analysis and Development** at **Unijorge**, with advanced engineering coursework in **Computer & Network Security** at **Universidad de Sevilla**.
 
 ---
-
-## 📊 GitHub Analytics & Streak
 
 <div align="center">
   <a href="https://github.com/devleocarvalho">
@@ -46,7 +53,7 @@ TIRE OS EMOJIS.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend & Languages:
 
@@ -102,23 +109,24 @@ TIRE OS EMOJIS.
 
 ---
 
-## 🏆 Certifications & Education
+## Certifications & Education
 
-#### 🛡️ Cybersecurity & Defense
+#### Cybersecurity & Defense
 - ![Cisco](https://img.shields.io/badge/-Cisco%20CyberOps%20%26%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco CyberOps Associate & Networking**
 - ![Google](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) **Google Cybersecurity Professional**
 - ![Hackers do Bem](https://img.shields.io/badge/-Hackers%20do%20Bem-00C853?style=flat-square&logo=shield&logoColor=white) **Hackers do Bem (RNP / Softex)**
 
-#### 💻 Software Engineering & Full Stack
+#### Software Engineering & Full Stack
 - ![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) **Full Stack Software Development Specializations**
 - ![DevMedia](https://img.shields.io/badge/-DevMedia-E34F26?style=flat-square&logo=codeigniter&logoColor=white) **Formação Full Stack Developer & Arquitetura**
 
-#### 🎓 Academic Degree
-- ![Unijorge](https://img.shields.io/badge/-Unijorge-1E3A8A?style=flat-square&logo=google-scholar&logoColor=white) **Análise e Desenvolvimento de Sistemas (ADS)**
+#### Academic Degree & International Coursework
+- ![Unijorge](https://img.shields.io/badge/-Unijorge-1E3A8A?style=flat-square&logo=google-scholar&logoColor=white) **Análise e Desenvolvimento de Sistemas (ADS)** — Unijorge
+- ![Universidad de Sevilla](https://img.shields.io/badge/-Universidad%20de%20Sevilla-8A1538?style=flat-square&logo=google-scholar&logoColor=white) **Seguridad Informática y Redes** — Universidad de Sevilla
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <div align="center">
   <a href="mailto:dev.leocarvalho@gmail.com" target="_blank">
@@ -132,4 +140,10 @@ TIRE OS EMOJIS.
   <a href="https://www.linkedin.com/in/devleocarvalho/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devleocarvalho&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
