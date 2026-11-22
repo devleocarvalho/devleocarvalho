@@ -11,7 +11,6 @@
   </a>
 </div>
 ---
-## About Me
 
 > **Systems Analyst and Full Stack Developer focused on building resilient, scalable applications with **Security by Design**, modern Cloud architectures, and automated DevSecOps pipelines.
 
