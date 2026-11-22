@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GIF.gif" style="width:auto; height:auto;">
+  <img src="GIF.gif" style="width:auto; height:auto;"> <img src="GIF.gif" width="100%">
 </div>
 <h1 align="center"> <a href="https://portifolio-two-red-14.vercel.app/" target="blank">  Hi there 👋, I'm Leo Carvalho</h1></a>
 
@@ -61,37 +61,6 @@
 ![Networking](https://img.shields.io/badge/Networking-FFC0CB?style=for-the-badge&logo=shield&logoColor=F2C811)
 
 ---
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Leonardo%20Carvalho&fontAlignY=40&animation=fadeIn&fontSize=60"/>
-
-<img src="GIF.gif" width="100%">
-
-# 👨‍💻 Leonardo Carvalho
-
-### Full Stack Developer • Systems Analyst • DevSecOps Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Systems+Analyst;DevSecOps+Enthusiast;Cybersecurity+Learner;Building+Secure+Solutions;Always+Learning+New+Technologies" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/devleocarvalho/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dev.leocarvalho@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://devleocarvalho.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username
-
-----
 
 ## 🏆 Certifications
 
