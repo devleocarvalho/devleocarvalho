@@ -12,6 +12,7 @@
 </div>
 ---
 ## About Me
+
 > **Systems Analyst and Full Stack Developer focused on building resilient, scalable applications with **Security by Design**, modern Cloud architectures, and automated DevSecOps pipelines.
 
 > **Professional Focus:** Systems Analyst and Full Stack Developer specialized in engineering robust web and mobile applications with an uncompromising emphasis on **Security by Design** and DevSecOps best practices.
