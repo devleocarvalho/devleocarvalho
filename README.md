@@ -6,7 +6,8 @@
 
 <div align="center">
   <a href="https://portifolio-two-red-14.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=580&lines=const+engineer+=+new+DevSecOps('Leo+Carvalho')%3B;engineer.enforceZeroTrust({+tls:+1.3%2C+mTLS:+true+})%3B;pipeline.runQualityGate({+zeroVulnerabilities:+true+})%3B;while+(alive)+{+build()%3B+audit()%3B+deploy()%3B+}" alt="Terminal Typing Code" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=580&lines=const+engineer+=+new+DevSecOps('Leo+Carvalho')%3B;engineer.enforceZeroTrust({+tls:+1.3%2C+mTLS:+true+})%3B;pipeline.runQualityGate({+zeroVulnerabilities:+true+})%3B;while+(alive)+{+build()%3B+audit()%3B+deploy()%3B+};{console.log(hash512)};{chave = secrets.token_hex(64)
+hash512 = hashlib.sha512(chave.encode()).hexdigest()}" alt="Terminal Typing Code" />
   </a>
 </div>
 
