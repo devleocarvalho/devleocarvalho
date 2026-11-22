@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GIF.gif" style="width:auto; height:auto;"> <img src="GIF.gif" width="100%">
+  <img src="GIF.gif" width="100%">
 </div>
 <h1 align="center"> <a href="https://portifolio-two-red-14.vercel.app/" target="blank">  Hi there 👋, I'm Leo Carvalho</h1></a>
 
