@@ -10,10 +10,9 @@
   </a>
 </div>
 ---
-
 ## About Me
 > Systems Analyst and Full Stack Developer focused on building resilient, scalable applications with **Security by Design**, modern Cloud architectures, and automated DevSecOps pipelines.
-- **Professional Focus:** Systems Analyst and Full Stack Developer specialized in engineering robust web and mobile applications with an uncompromising emphasis on **Security by Design** and DevSecOps best practices.
+> **Professional Focus:** Systems Analyst and Full Stack Developer specialized in engineering robust web and mobile applications with an uncompromising emphasis on **Security by Design** and DevSecOps best practices.
 - **Security & Systems Engineering:** Focused on shifting security left by integrating automated pipelines (SAST, SCA, DAST), Zero Trust network controls (strict TLS 1.3, mTLS), and cryptographic validation directly into the software lifecycle.
 - **Full Stack & Cloud Architecture:** Designing reliable, high-performance solutions utilizing modern JavaScript/TypeScript ecosystems (**React**, **Next.js**, **Node.js**), **Python**, and cloud databases (**Firebase**, **Supabase**, **Neon Postgres**).
 - **Career Transition & Strategic Value:** Combining an established professional background with analytical rigor, structured problem-solving, and clear cross-functional communication to deliver dependable business solutions.
