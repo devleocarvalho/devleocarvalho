@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <a href="https://portifolio-two-red-14.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=580&lines=const+engineer+=+new+DevSecOps('Leo+Carvalho')%3B;engineer.enforceZeroTrust({+tls:+1.3%2C+mTLS:+true+})%3B;pipeline.runQualityGate({+zeroVulnerabilities:+true+})%3B;while+(alive)+{+build()%3B+audit()%3B+deploy()%3B+};{console.log(hash512)};{chave = secrets.token_hex(64)
-hash512 = hashlib.sha512(chave.encode()).hexdigest()}" alt="Terminal Typing Code" />
+  <a href="https://portifolio-two-red-14.vercel.app/" target="_blank">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=580&lines=const+engineer+=+new+DevSecOps('Leo+Carvalho')%3B;engineer.enforceZeroTrust(%7Btls%3A1.3%2CmTLS%3Atrue%7D)%3B;pipeline.runQualityGate(%7BzeroVulnerabilities%3Atrue%7D)%3B;while(alive)%7Bbuild()%3Baudit()%3Bdeploy()%3B%7D%3B;const+hash512+=+crypto.createHash('sha512')%3B;Security+First+%7C+Full+Stack+Developer+%7C+DevSecOps"alt="Typing SVG"/>
   </a>
 </div>
 
