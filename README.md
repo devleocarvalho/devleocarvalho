@@ -9,30 +9,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=580&lines=const+engineer+=+new+DevSecOps('Leo+Carvalho')%3B;engineer.enforceZeroTrust({+tls:+1.3%2C+mTLS:+true+})%3B;pipeline.runQualityGate({+zeroVulnerabilities:+true+})%3B;while+(alive)+{+build()%3B+audit()%3B+deploy()%3B+}" alt="Terminal Typing Code" />
   </a>
 </div>
-
-<p align="center">
-  <em>
-    Full Stack Developer and Systems Analyst building resilient digital products guided by <strong>Security by Design</strong> and modern Cloud architectures.
-  </em>
-</p>
-
 ---
 
 ## About Me
-
-```bash
-leo@devsecops:~$ cat profile.json
-{
-  "engineer": "Leonardo de Carvalho",
-  "specialization": ["Full Stack Development", "Systems Analysis", "DevSecOps"],
-  "principles": ["Security by Design", "Shift-Left", "Zero Trust Architecture"],
-  "core_stack": ["React", "Next.js", "TypeScript", "Node.js", "Python"],
-  "status": "Available for high-impact software & security engineering"
-}
-leo@devsecops:~$ ./run_security_audit.sh --production
-[PASS] SAST (Semgrep) | [PASS] SCA (Trivy) | [PASS] Quality Gate: 0 Vulnerabilities
-```
-
+> Systems Analyst and Full Stack Developer focused on building resilient, scalable applications with **Security by Design**, modern Cloud architectures, and automated DevSecOps pipelines.
 - **Professional Focus:** Systems Analyst and Full Stack Developer specialized in engineering robust web and mobile applications with an uncompromising emphasis on **Security by Design** and DevSecOps best practices.
 - **Security & Systems Engineering:** Focused on shifting security left by integrating automated pipelines (SAST, SCA, DAST), Zero Trust network controls (strict TLS 1.3, mTLS), and cryptographic validation directly into the software lifecycle.
 - **Full Stack & Cloud Architecture:** Designing reliable, high-performance solutions utilizing modern JavaScript/TypeScript ecosystems (**React**, **Next.js**, **Node.js**), **Python**, and cloud databases (**Firebase**, **Supabase**, **Neon Postgres**).
