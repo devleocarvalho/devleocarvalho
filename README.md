@@ -96,11 +96,11 @@
 ## Certifications & Education
 
 #### Cybersecurity & Defense
-- ![Cisco](https://img.shields.io/badge/-Cisco%20CyberOps%20%26%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) 
-- ![Google](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) 
-- ![Hackers do Bem](https://img.shields.io/badge/-Hackers%20do%20Bem-00C853?style=flat-square&logo=shield&logoColor=white) 
-- ![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) 
-- ![DevMedia](https://img.shields.io/badge/-DevMedia-E34F26?style=flat-square&logo=codeigniter&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco%20CyberOps%20%26%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white) 
+![Google](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) 
+![Hackers do Bem](https://img.shields.io/badge/-Hackers%20do%20Bem-00C853?style=flat-square&logo=shield&logoColor=white) 
+![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) 
+![DevMedia](https://img.shields.io/badge/-DevMedia-E34F26?style=flat-square&logo=codeigniter&logoColor=white)
 
 #### Academic Degree & International Coursework
 - ![Unijorge](https://img.shields.io/badge/-Unijorge-1E3A8A?style=flat-square&logo=google-scholar&logoColor=white) **Análise e Desenvolvimento de Sistemas (ADS)**
