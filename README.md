@@ -103,8 +103,8 @@
 ![DevMedia](https://img.shields.io/badge/-DevMedia-E34F26?style=flat-square&logo=codeigniter&logoColor=white)
 
 #### Academic Degree & International Coursework
-- ![Unijorge](https://img.shields.io/badge/-Unijorge-1E3A8A?style=flat-square&logo=google-scholar&logoColor=white) **Análise e Desenvolvimento de Sistemas (ADS)**
-- ![Universidad de Sevilla](https://img.shields.io/badge/-Universidad%20de%20Sevilla-8A1538?style=flat-square&logo=google-scholar&logoColor=white) **Seguridad Informática y Redes**
+![Unijorge](https://img.shields.io/badge/-Unijorge-1E3A8A?style=flat-square&logo=google-scholar&logoColor=white) **Análise e Desenvolvimento de Sistemas (ADS)**
+![Universidad de Sevilla](https://img.shields.io/badge/-Universidad%20de%20Sevilla-8A1538?style=flat-square&logo=google-scholar&logoColor=white) **Seguridad Informática y Redes**
 
 ---
 
