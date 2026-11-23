@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://portifolio-two-red-14.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=pulse&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=180&section=header&text=Leo%20Carvalho&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Analyst%20%E2%80%A2%20DevSecOps%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=180&section=header&text=Leo%20Carvalho&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Analyst%20%E2%80%A2%20DevSecOps%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
   </a>
 </div>
 
